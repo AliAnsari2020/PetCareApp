@@ -1,0 +1,71 @@
+name: userpanel
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.4.1
+  firebase_auth: ^5.6.2
+  google_fonts: ^6.2.1
+  firebase_storage: ^12.2.0
+  cloud_firestore: ^5.0.1
+  image_picker: ^1.1.2
+  image_picker_for_web: ^3.0.2
+  http: ^1.1.0
+  cached_network_image: ^3.3.0
+  shimmer: ^2.0.0
+  intl: ^0.18.1
+  lottie: ^3.3.1
+  fl_chart: ^0.68.0
+  table_calendar: ^3.0.9
+  flutter_riverpod: ^2.5.1
+  async: ^2.10.0
+  carousel_slider: ^5.0.0
+  flutter_svg: ^2.0.7
+  iconsax: ^0.0.8
+  
+  
+
+
+
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - images/store_banner.jpg
+    - images/tip_banner.jpg
+    - images/health_banner.jpg
+    - images/petcarelogo.png
+    - images/getstart.png
+    - images/Trailloading.json
+    - images/AdminPanel.json
+    - images/PetCare.json
+    - images/dogdelivery.json
+    - images/animal.json
+    - images/catcafe.json
+    - images/Calendar.json
+    - images/cat.json
+    - images/PerroComiendo.json
+    - images/petsworld.json
+    - images/login.json
+    - images/signup.json
+    - images/Pets.json
+    - images/Forgotpassword.json
+    - images/petcarelogo.png
+    - images/getstart.png
+
+    

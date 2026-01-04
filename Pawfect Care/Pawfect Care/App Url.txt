@@ -1,0 +1,9 @@
+https://petcare-a9915.web.app
+
+Pet owner Dashboard:
+
+Test Login Credentials
+•	Pet Owner → sufiyan@gmail.com / 123456
+•	Veterinarian → Amjad@gmail.com / 123456
+•	Shelter Admin → yousuf@gmail.com / admin123
+•       Admin Dashboard ->   admin@gmail.com/ admin123
